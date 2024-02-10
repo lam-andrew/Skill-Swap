@@ -9,11 +9,10 @@ A platform that facilitates skill exchanges within a community. Users can offer 
 - **Resource Sharing:** Provide a feature for users to share resources (articles, videos, tools) related to their skills, further supporting the learning experience.
 
 ### Technical Implementations 📚
-**Front-End:** ReactTSX
-**Back-End:** Python
-**Database:** ...
-**Deployment:** ...
-
+**Front-End:** ReactTSX  
+**Back-End:** Python  
+**Database:** ...  
+**Deployment:** ...  
 
 ### Development Steps:
 1. **Concept and Planning:** Define the project scope, plan the feature set, and design the initial wireframes or mockups for the user interface.
